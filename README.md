@@ -1,1 +1,2 @@
 aim  asist
+aim  bot
