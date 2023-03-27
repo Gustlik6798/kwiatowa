@@ -1,2 +1,1 @@
-# kwiatowa
-aim asist
+aimasist
